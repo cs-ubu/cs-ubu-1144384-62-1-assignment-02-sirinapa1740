@@ -4,7 +4,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^5.0.6"
+    "electron": "^7.2.4"
   },
   "scripts": {
     "go": "tsc index.ts && electron .",
